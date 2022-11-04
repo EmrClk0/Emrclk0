@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
+[<img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/emrullah-celik/)
 
 &nbsp;&nbsp;
 
@@ -43,6 +43,7 @@
 <br />
 
 [website]: https://emrullahcelik.site
+[linkedin]: https://www.linkedin.com/in/emrullah-celik/
 
 
 
