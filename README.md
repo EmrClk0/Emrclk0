@@ -9,7 +9,7 @@
 - 🏫 I am student at University
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: Being mobil/game developer
+- 🥅 2024 Goals: Being AI developer
 - 🌱 I’m currently learning Laravel and Spring
 
 
